@@ -1,0 +1,14 @@
+streamlit==1.17.0
+pandas==1.5.2
+matplotlib==3.6.2
+torch>=1.9.1
+torchvision>=0.10.1
+opencv-python-headless
+numpy >=1.18.5
+Pillow >=7.1.2
+psutil
+pandas>=1.1.4
+tqdm
+PyYAML
+seaborn
+scipy
